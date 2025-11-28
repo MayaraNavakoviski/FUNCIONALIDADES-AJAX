@@ -1,0 +1,11 @@
++implementaçẽos ajax:
+
+[X] alterar o status 
+[X] alterar a data quando o status der como finalizado
+
+arrumar os placeholders: na hora de editar ou criar ordem serico colocar o nome do campo de descrição e dos outros
+[x]colocar a impossibilidade de criar uma nova ordem com o status de encerrada ou cancelada
+nao deixar o campo selecione na hora de selecionar o status com AJAX ( m
+
+
+reformular a estiliszação ( nao da pra fazer em cascata pq a forma q o código foi implementado faz com que o formulario chame a propria página quando executado, fazendo com que tenha que repetir toda a implementação)
